@@ -1,1 +1,9 @@
+.question {
+    float: left;
+    color: green;
+}
 
+.question {
+    float: right;
+    color: blue;
+}
